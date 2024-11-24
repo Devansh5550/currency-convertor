@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+.ui{
+    justify-content: center;
+    align-items: center;
+}
